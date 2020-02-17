@@ -1,0 +1,12 @@
+/* Webfont: Riffic */@font-face {
+    font-family: 'Riffic';
+    src: url('Riffic.eot'); /* IE9 Compat Modes */
+    src: url('Riffic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Riffic.woff') format('woff'), /* Modern Browsers */
+         url('Riffic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Riffic.svg#Riffic') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
